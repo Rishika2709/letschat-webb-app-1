@@ -1,0 +1,29 @@
+body
+{
+	background-color: purple;
+    background-size: stretch;
+	background-repeat: no-repeat;
+	font-family: 'Itim', cursive;
+	color: white;
+	margin-right: 100px;
+	margin-left: 600px;
+	margin-top: 225px;
+}
+
+	.login_div1 , .login_div2
+	{
+		color: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#user_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.login_button{
+	background-color: blueviolet;
+}
